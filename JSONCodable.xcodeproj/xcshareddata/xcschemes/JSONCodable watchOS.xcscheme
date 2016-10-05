@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9EDB39221B59D01D00C63019"
+               BlueprintIdentifier = "D3275DF61DA55F390010D571"
                BuildableName = "JSONCodable.framework"
-               BlueprintName = "JSONCodable OSX"
+               BlueprintName = "JSONCodable watchOS"
                ReferencedContainer = "container:JSONCodable.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -28,23 +28,13 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9E455BF61BCE185B00070A4F"
-               BuildableName = "JSONCodableTests OSX.xctest"
-               BlueprintName = "JSONCodableTests OSX"
-               ReferencedContainer = "container:JSONCodable.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9EDB39221B59D01D00C63019"
+            BlueprintIdentifier = "D3275DF61DA55F390010D571"
             BuildableName = "JSONCodable.framework"
-            BlueprintName = "JSONCodable OSX"
+            BlueprintName = "JSONCodable watchOS"
             ReferencedContainer = "container:JSONCodable.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -64,9 +54,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9EDB39221B59D01D00C63019"
+            BlueprintIdentifier = "D3275DF61DA55F390010D571"
             BuildableName = "JSONCodable.framework"
-            BlueprintName = "JSONCodable OSX"
+            BlueprintName = "JSONCodable watchOS"
             ReferencedContainer = "container:JSONCodable.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -82,9 +72,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "9EDB39221B59D01D00C63019"
+            BlueprintIdentifier = "D3275DF61DA55F390010D571"
             BuildableName = "JSONCodable.framework"
-            BlueprintName = "JSONCodable OSX"
+            BlueprintName = "JSONCodable watchOS"
             ReferencedContainer = "container:JSONCodable.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

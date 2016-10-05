@@ -32,9 +32,9 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9EDB390F1B59D00B00C63019"
-               BuildableName = "JSONCodable iOS Tests.xctest"
-               BlueprintName = "JSONCodable iOS Tests"
+               BlueprintIdentifier = "D3275E0C1DA56B880010D571"
+               BuildableName = "JSONCodableTests iOS.xctest"
+               BlueprintName = "JSONCodableTests iOS"
                ReferencedContainer = "container:JSONCodable.xcodeproj">
             </BuildableReference>
          </TestableReference>
